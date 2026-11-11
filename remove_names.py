@@ -4,7 +4,7 @@ def has_numbers(inputString):
 with open("classes.txt", 'r') as f:
 	curr = []
 	for line in f:
-		if line != '\n' and not has_numbers(line):
+		if line != '\n' and not has_numbers(line):	# looks for a number in the class name or the time
 			if line.find('T ') != -1:
 				line = line[0:4] + '\n'
 			else:
