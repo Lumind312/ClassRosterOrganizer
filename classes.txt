@@ -1,0 +1,381 @@
+306 Creativity
+Sat 9am
+Au
+Br
+Da
+Em
+Em
+T Te
+
+501 Physics 1
+Sat 9am
+Ai
+Ja
+Ke
+La
+Le
+Lu
+Mi
+Se
+Da
+T Ti
+
+110 AP Calc BC
+Sat 9am
+An
+Ho
+Sa
+To
+To
+To
+Be
+Ma
+Et
+T Ry
+
+201A C++
+Sat 9am
+Ca
+Ch
+De
+Ha
+Jo
+Th
+Yu
+Za
+Te
+Da
+T Ch
+
+502 Physics 2
+Sat 11am
+An
+Br
+Da
+Ja
+Sa
+To
+To
+To
+Wa
+T Ti
+
+604 Research
+Sat 11am
+Au
+Br
+Em
+Em
+T Ji
+
+109 AP Precalc
+Sat 11am
+Ai
+Da
+Ja
+Ke
+Le
+Lu
+Se
+T Ry
+
+301A Engineering
+Sat 11am
+Ca
+De
+Ha
+Jo
+Mi
+Th
+Yu
+Za
+Ba
+Te
+T Ch
+
+206 Algorithms
+Sat 11am
+Au
+Be
+Et
+Ho
+Je
+Be
+T Te
+
+202 Java
+Sat 1:30pm
+Ai
+Ja
+Ke
+Le
+Mi
+Sa
+Se
+T Te
+
+503 Physics C
+Sat 1:30pm
+Au
+Ho
+Je
+Br
+Em
+T Ti
+
+109 Precalc IC
+Sat 1:30pm
+Br
+Da
+Wa
+Em
+Be
+T Ry
+
+701 English 1
+Sat 1:30pm
+Ha
+Lu
+Ta
+Yo
+Yu
+T Mi
+
+702 English 2
+Sat 3:30pm
+Ba
+Be
+Mi
+Na
+Sk
+Th
+T Mi
+
+106 Geometry
+Sun 9am
+An
+Ch
+Da
+Et
+Ha
+Jo
+Ro
+T Te
+
+108 Algebra 2
+Sun 9am
+An
+Ad
+An
+Da
+Ja
+La
+Mi
+Th
+T Ti
+
+305 Elite Engineering
+Sun 9am
+An
+Ar
+Au
+Be
+Da
+Je
+Sa
+To
+To
+Be
+Ma
+To
+T Ry
+
+205 Kids Programming
+Sun 9am
+Lu
+Ru
+Sa
+Ta
+Et
+T Ch
+
+105 Prealgebra
+Sun 11am
+Et
+Je
+Jo
+So
+Za
+T Ch
+
+401 Cyber Security
+Sun 11am
+Ai
+An
+Au
+Au
+Be
+Br
+Br
+Da
+Da
+Em
+Em
+Ho
+Ja
+Je
+Ke
+La
+Le
+Lu
+Mi
+Sa
+Se
+To
+To
+Wa
+Be
+Ma
+To
+Be
+T Ry
+
+107 Algebra 1
+Sun 11am
+Lu
+Sa
+Sk
+Te
+Yo
+T Ti
+
+311 AI Literacy
+Sun 11am
+Da
+Et
+Ha
+Ja
+Jo
+Th
+T Te
+
+207 Algorithms
+Sun 1:30pm
+An
+To
+To
+To
+Br
+Em
+T Te
+
+122 Competition Math
+Sun 1:30pm
+Ai
+Au
+Ja
+Je
+Ke
+Le
+Sa
+T Ti
+
+201B C++
+Sun 1:30pm
+Ad
+An
+An
+Br
+Da
+Da
+Et
+Et
+Ja
+Lu
+Ro
+Sk
+Be
+T Ch
+
+202 Java IC
+Sun 1:30pm
+Au
+La
+Wa
+Mi
+T Ry
+
+301B Engineering
+Sun 3:30pm
+Ad
+Ai
+An
+Br
+Da
+Et
+Et
+Ja
+Ja
+Ke
+La
+Le
+Lu
+Sk
+Be
+Wa
+
+T Te
+
+001 Monday Math
+Mon 3pm
+Sa
+Lu
+Mi
+Yu
+Es
+T Ry
+T Te
+T Ya
+
+002 Wednesday English
+Wed 3pm
+Ba
+Ja
+Te
+Yu
+Yu
+Mi
+So
+T Te
+T Ry
+T Ya
+
+003 Friday Math
+Fri 4pm
+An
+Ja
+Te
+To
+T Ry
+T Ya
+
+3D Animation
+Sat 1:30pm
+An
+To
+Ba
+Mi
+Jo
+Au
+An
+Te
+T Ya
+
+3D Animation
+Sat 3:30pm
+Ja
+Ke
+Ai
+Le
+Wa
+T Ya

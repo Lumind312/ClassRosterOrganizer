@@ -1,0 +1,441 @@
+--- PAGE 1 ---
+001 Monday Math
+Mon 3pm
+Es
+Lu
+Mi
+Sa
+Yu
+
+T Ry
+T Te
+T Ya
+
+002 Wednesday English
+Wed 3pm
+Ba
+Ja
+Mi
+So
+Te
+Yu
+Yu
+
+T Te
+T Ry
+T Ya
+
+
+--- PAGE 2 ---
+003 Friday Math
+Fri 4pm
+An
+Ja
+Te
+To
+
+T Ry
+T Ya
+
+306 Creativity
+Sat 9am
+Au
+Br
+Da
+Em
+Em
+
+T Te
+
+501 Physics 1
+Sat 9am
+Ai
+Da
+Ja
+Ke
+La
+Le
+Lu
+Mi
+Se
+
+T Ti
+
+
+--- PAGE 3 ---
+110 AP Calc BC
+Sat 9am
+An
+Be
+Et
+Ho
+Ma
+Sa
+To
+To
+To
+
+T Ry
+
+201A C++
+Sat 9am
+Ca
+Ch
+Da
+De
+Ha
+Jo
+Te
+Th
+Yu
+Za
+
+T Ch
+
+
+--- PAGE 4 ---
+502 Physics 2
+Sat 11am
+An
+Br
+Da
+Ja
+Sa
+To
+To
+To
+Wa
+
+T Ti
+
+604 Research
+Sat 11am
+Au
+Br
+Em
+Em
+
+T Ji
+
+
+--- PAGE 5 ---
+109 AP Precalc
+Sat 11am
+Ai
+Da
+Ja
+Ke
+Le
+Lu
+Se
+
+T Ry
+
+301A Engineering
+Sat 11am
+Ba
+Ca
+De
+Ha
+Jo
+Mi
+Te
+Th
+Yu
+Za
+
+T Ch
+
+
+--- PAGE 6 ---
+206 Algorithms
+Sat 11am
+Au
+Be
+Be
+Et
+Ho
+Je
+
+T Te
+
+202 Java
+Sat 1:30pm
+Ai
+Ja
+Ke
+Le
+Mi
+Sa
+Se
+
+T Te
+
+503 Physics C
+Sat 1:30pm
+Au
+Br
+Em
+Ho
+Je
+
+T Ti
+
+
+--- PAGE 7 ---
+109 Precalc IC
+Sat 1:30pm
+Be
+Br
+Da
+Em
+Wa
+
+T Ry
+
+701 English 1
+Sat 1:30pm
+Ha
+Lu
+Ta
+Yo
+Yu
+
+T Mi
+
+3D Animation
+Sat 1:30pm
+An
+An
+Au
+Ba
+Jo
+Mi
+Te
+To
+
+T Ya
+
+
+--- PAGE 8 ---
+702 English 2
+Sat 3:30pm
+Ba
+Be
+Mi
+Na
+Sk
+Th
+
+T Mi
+
+3D Animation
+Sat 3:30pm
+Ai
+Ja
+Ke
+Le
+Wa
+
+T Ya
+
+106 Geometry
+Sun 9am
+An
+Ch
+Da
+Et
+Ha
+Jo
+Ro
+
+T Te
+
+
+--- PAGE 9 ---
+108 Algebra 2
+Sun 9am
+Ad
+An
+An
+Da
+Ja
+La
+Mi
+Th
+
+T Ti
+
+305 Elite Engineering
+Sun 9am
+An
+Ar
+Au
+Be
+Be
+Da
+Je
+Ma
+Sa
+To
+To
+To
+
+T Ry
+
+
+--- PAGE 10 ---
+205 Kids Programming
+Sun 9am
+Et
+Lu
+Ru
+Sa
+Ta
+
+T Ch
+
+105 Prealgebra
+Sun 11am
+Et
+Je
+Jo
+So
+Za
+
+T Ch
+
+
+--- PAGE 11 ---
+401 Cyber Security
+Sun 11am
+Ai
+An
+Au
+Au
+Be
+Be
+Be
+Br
+Br
+Da
+Da
+Em
+Em
+Ho
+Ja
+Je
+Ke
+La
+Le
+Lu
+Ma
+Mi
+Sa
+Se
+To
+To
+To
+Wa
+
+T Ry
+
+
+--- PAGE 12 ---
+107 Algebra 1
+Sun 11am
+Lu
+Sa
+Sk
+Te
+Yo
+
+T Ti
+
+311 AI Literacy
+Sun 11am
+Da
+Et
+Ha
+Ja
+Jo
+Th
+
+T Te
+
+207 Algorithms
+Sun 1:30pm
+An
+Br
+Em
+To
+To
+To
+
+T Te
+
+
+--- PAGE 13 ---
+122 Competition Math
+Sun 1:30pm
+Ai
+Au
+Ja
+Je
+Ke
+Le
+Sa
+
+T Ti
+
+201B C++
+Sun 1:30pm
+Ad
+An
+An
+Be
+Br
+Da
+Da
+Et
+Et
+Ja
+Lu
+Ro
+Sk
+
+T Ch
+
+
+--- PAGE 14 ---
+202 Java IC
+Sun 1:30pm
+Au
+La
+Mi
+Wa
+
+T Ry
+
+301B Engineering
+Sun 3:30pm
+Ad
+Ai
+An
+Be
+Br
+Da
+Et
+Et
+Ja
+Ja
+Ke
+La
+Le
+Lu
+Sk
+Wa
+
+T Te
+
+
