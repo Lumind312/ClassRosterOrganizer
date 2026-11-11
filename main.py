@@ -3,7 +3,7 @@ import xlsxwriter
 
 LINE_COUNT = 33		# 33 lines, 34+ including top
 ALPHABETIZE_STUDENTS = True
-as_sheets = False
+as_sheets = True
 
 class_list = []
 
@@ -109,6 +109,7 @@ if not as_sheets:
 				for line in block:
 					f.write(line)
 			f.write("\n\n")
+	print("Wrote to", "\"output.txt\"")
 else:
 	# format as xlsx
 	workbook = xlsxwriter.Workbook("attendance log.xlsx")
@@ -121,7 +122,12 @@ else:
 		for block in page:
 			for line in block:
 				worksheet.write(row, (page_num-1)*2, line)
-				worksheet.set_row_pixels(row, 21)										# attempt to reset xlsx to default row size
+				worksheet.set_row_pixels(row=row, height=21)										# attempt to reset xlsx to default row size
 				row += 1
 
+	cell_format = workbook.add_format()
+	cell_format.set_bottom(2)
+	worksheet.set_row_pixels(row=32, height=21, cell_format=cell_format)
+
 	workbook.close()
+	print("Wrote to", "\"attendance log.xlsx\"")
